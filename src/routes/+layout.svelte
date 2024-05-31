@@ -18,6 +18,7 @@
 
 			<TopMenu />
 				<slot />
+
 			<Footer />
 		</div>
 
