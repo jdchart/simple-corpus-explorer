@@ -12,7 +12,7 @@
 
     <TopMenuButton 
         label = "About"
-        link = "{base}/about"
+        link = "{base}/"
     />
     <TopMenuButton 
         label = "Sandbox"
@@ -21,12 +21,12 @@
     
     <TopMenuButton 
         label = "Discuss"
-        link = "{base}/discuss"
+        link = "{base}/"
     />
     
     <TopMenuButton 
         label = "Links"
-        link = "{base}/links"
+        link = "{base}/"
     />
 </nav>
 

@@ -28,7 +28,7 @@
         link = "https://www.univ-rennes2.fr/"
     />
 
-    <a href="{base}/terms">Terms</a>
+    <a href="{base}/">Terms</a>
 
     <!-- <div class="right_content">
         <a href="{base}/terms">Terms</a>
